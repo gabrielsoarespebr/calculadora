@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(189, 188, 188);
+    padding: 1em;
+}
+
+button {
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 50%;
+    margin: 0.3em;
+    cursor: pointer;
+    background-color: #505050;
+    color: #fff;
+}
+
+.wrapper {
+    background-color: #000;
+    border-radius: 2em;
+    width: 360px;
+    margin: auto;
+    padding: 1em;
+}
+
+.orangeBtn {
+    background-color: #FF9500;
+}
+
+.grayBtn {
+    background-color: #d4d4d2;
+    color: #000;
+}
+
+.twoSlotsZero {
+    text-align: start;
+    padding-left: 1.3em;
+    width: 6.6em;
+    border-radius: 1.5em;
+}
+
+.result {
+    color: #fff;
+    font-weight: 400;
+    text-align: right;
+    padding-right: .8em;
+    font-size: 2.5em;
+}
